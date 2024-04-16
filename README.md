@@ -1,7 +1,7 @@
 ![logo](https://github.com/Prabhakar1437/Prabhakar1437/blob/main/Make%20your%20README%20(1).png)
 <h1 align="center">Hi 👋, I'm Prabhakar Vats</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align ="right" alt="coding"width ="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+<img align ="right" alt="coding"width ="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj3UytXnbhI8BHRRiE_pV9gP8chxxfPJDYIPjcY9VAVQ&s"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhakar1437&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakar1437" /> </p>
 
