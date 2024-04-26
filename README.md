@@ -1,4 +1,4 @@
-![logo](https://github.com/Prabhakar1437/Prabhakar1437/blob/main/Make%20your%20README%20(1).png)
+![logo](https://github.com/Prabhakar1437/Prabhakar1437/blob/main/README%20Vats.jpg)
  <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
