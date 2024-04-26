@@ -1,4 +1,8 @@
 ![logo](https://github.com/Prabhakar1437/Prabhakar1437/blob/main/Make%20your%20README%20(1).png)
+ <!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+</br>
 <!--  PROFILE VISIT COUNTER  -->
 <tr>
    <p align="top"> <img src="https://komarev.com/ghpvc/?username=Prabhakar1437&label=Profile%20views&color=36363b&style=flat" alt="Prabhakar1437r" /></p>
@@ -63,7 +67,6 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <!--  CAT  -->
 <img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
 <!--LANGUAGES USED -->
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhakar1437&show_icons=true&locale=en&layout=compact" alt="prabhakar1437" /></p>
 
  <!--  DIVIDER  -->
@@ -71,8 +74,8 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 
 </br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://codepen.io/https://codepen.io/prabhakar1437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/prabhakar1437" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhakar-vats/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhakar-vats/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24114798/prabhakar-vats?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24114798/prabhakar-vats?tab=profile" height="30" width="40" /></a>
@@ -82,4 +85,4 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <a href="https://www.leetcode.com/https://leetcode.com/vats_1437/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vats_1437/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/prabhakarvatsking/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/prabhakarvatsking/" height="30" width="40" /></a>
 </p>
-#### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
+🚀 Let's connect and collaborate!<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="50" height="50"/>
