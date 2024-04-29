@@ -78,14 +78,8 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <a href="https://www.instagram.com/vatsprabhakar/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/vatsprabhakar/" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me/1234471005481603093" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="https://www.kaggle.com/prabhakarvats1" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/" target="blank"><img src="https://skillicons.dev/icons?i=gmail alt="https://mail.google.com/mail/" height="30" width="40" /></a>
-
-
 </p>
 🚀 Let's connect and collaborate!<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="50" height="50"/>
-
-
-###
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
