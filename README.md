@@ -4,9 +4,7 @@
 
 </br>
 <!--  PROFILE VISIT COUNTER  -->
-<tr>
-   <p align="top"> <img src="https://komarev.com/ghpvc/?username=Prabhakar1437&label=Profile%20views&color=36363b&style=flat" alt="Prabhakar1437r" /></p>
-</tr>
+
 <!--  PROFILE HEADER RHS IMAGE  -->
  <picture>
   <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
@@ -92,6 +90,24 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 <div align="center">Thank you for visiting my profile! I hope you find it interesting and informative. I am excited to be a part of the developer community and I'm always looking for ways to improve my skills and knowledge.</div>
+
+###
+
+<div align="center">
+  <a href="#">
+      <img src="https://komarev.com/ghpvc/?username=Prabhakar1437a&label=Profile%20views&color=0e75b6&style=flat" alt="Prabhakar1437" align="center" /> 
+  <a/>
+<br>
+
+   
+  <a href="https://github.com/Prabhakar1437?tab=followers">
+    <img src="https://img.shields.io/github/followers/Prabhakar1437?label=Followers&style=social" alt="GitHub Badge" align="center">
+  <a/>
+</div>
+ 
+<div align="center">
+  <a href="https://www.buymeacoffee.com/rmznctnky"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ramazancetinkaya" /></a>
+</div>
 
 
 
