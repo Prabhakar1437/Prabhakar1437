@@ -52,7 +52,9 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 </br>
 <!--readme-streak-stats-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakar1437&" alt="prabhakar1437" /></p>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhakar1437&theme=dark" alt="Prabhakar1437" />
+</div>
 
  <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
@@ -60,14 +62,19 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <!--  HI PIKACHU  -->
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
 <!--  MY GITHUB STAT  -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhakar1437&show_icons=true&locale=en" alt="prabhakar1437" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Prabhakar1437" height="150" alt="stats graph"  />
+ 
+</div>
  <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 </br>
 <!--  CAT  -->
 <img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
 <!--LANGUAGES USED -->
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhakar1437&show_icons=true&locale=en&layout=compact" alt="prabhakar1437" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Prabhakar1437" height="150" alt="languages graph"  />
+</div>
 
  <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
@@ -98,3 +105,5 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+<div align="center">Thank you for visiting my profile! I hope you find it interesting and informative. I am excited to be a part of the developer community and I'm always looking for ways to improve my skills and knowledge.</div>
+
