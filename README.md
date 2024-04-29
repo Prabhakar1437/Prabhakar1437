@@ -74,11 +74,13 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/prabhakar1437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/prabhakar1437" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhakar-vats/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhakar-vats/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24114798/prabhakar-vats?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24114798/prabhakar-vats?tab=profile" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/prabhakar1437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/prabhakar1437" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/prabhakarvats1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/prabhakarvats1" height="30" width="40" /></a>
+<a href="https://twitter.com/Er_Prabhakar141" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="https://twitter.com/Er_Prabhakar141" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhakar-vats/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"alt="https://www.linkedin.com/in/prabhakar-vats/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24114798/prabhakar-vats?tab=profile" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="https://stackoverflow.com/users/24114798/prabhakar-vats?tab=profile" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vatsprabhakar/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/vatsprabhakar/" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me/1234471005481603093" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="https://www.kaggle.com/prabhakarvats1" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/" target="blank"><img src="https://skillicons.dev/icons?i=gmail alt="https://mail.google.com/mail/" height="30" width="40" /></a>
+
 
 </p>
 🚀 Let's connect and collaborate!<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="50" height="50"/>
