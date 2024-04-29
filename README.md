@@ -101,9 +101,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
   <a href="#">
       <img src="https://komarev.com/ghpvc/?username=Prabhakar1437a&label=Profile%20views&color=0e75b6&style=flat" alt="Prabhakar1437" align="center" /> 
   <a/>
-<br>
 
-   
   <a href="https://github.com/Prabhakar1437?tab=followers">
     <img src="https://img.shields.io/github/followers/Prabhakar1437?label=Followers&style=social" alt="GitHub Badge" align="center">
   <a/>
