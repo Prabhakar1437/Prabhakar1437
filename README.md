@@ -73,7 +73,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Er_Prabhakar141" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="https://twitter.com/Er_Prabhakar141" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhakar-vats/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"alt="https://www.linkedin.com/in/prabhakar-vats/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prabhakar-vats/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"alt="https://www.linkedin.com/in/prabhakar-vats/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24114798/prabhakar-vats?tab=profile" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="https://stackoverflow.com/users/24114798/prabhakar-vats?tab=profile" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vatsprabhakar/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/vatsprabhakar/" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me/1234471005481603093" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="https://www.kaggle.com/prabhakarvats1" height="30" width="40" /></a>
