@@ -91,3 +91,10 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/prabhakarvatsking/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/prabhakarvatsking/" height="30" width="40" /></a>
 </p>
 🚀 Let's connect and collaborate!<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="50" height="50"/>
+
+
+###
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
