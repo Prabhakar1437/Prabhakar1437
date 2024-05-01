@@ -43,7 +43,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 </br>
 <!--readme-streak-stats-->
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhakar1437&theme=dark" alt="Prabhakar1437" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhakar1437&theme=dark" alt="Prabhakar1437"/>
 </div>
 
  <!--  DIVIDER  -->
@@ -63,7 +63,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
 <!--LANGUAGES USED -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Prabhakar1437" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Prabhakar1437" height="150" alt="languages graph"/>
 </div>
 
  <!--  DIVIDER  -->
