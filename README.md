@@ -53,7 +53,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
 <!--  MY GITHUB STAT  -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Prabhakar1437" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Prabhakar1437" height="150" alt="stats graph"/>
  
 </div>
  <!--  DIVIDER  -->
@@ -102,7 +102,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 </div>
 <br>
 <div align="center">
-  <a href="https://www.buymeacoffee.com/rmznctnky"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ramazancetinkaya" /></a>
+  <a href="https://www.buymeacoffee.com/rmznctnky"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Prabhakar1437" /></a>
 </div>
 
 
