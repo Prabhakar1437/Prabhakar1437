@@ -91,6 +91,11 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 
 ###
 
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Prabhakar1437/count.svg" />
+</p>
+
 
 <div align="center">
   <a href="#">
